@@ -1,17 +1,4 @@
 <div align="center">
-	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset=".github/frappe-framework-logo-dark.svg">
-		<img src=".github/frappe-framework-logo.svg" height="50">
-	</picture>
-	<h3>
-		a web framework with <a href="https://www.youtube.com/watch?v=LOjk3m0wTwg">"batteries included"</a>
-	</h3>
-	<h5>
-		it's pronounced - <em>fra-pay</em>
-	</h5>
-</div>
-
-<div align="center">
 	<a target="_blank" href="#LICENSE" title="License: MIT"><img src="https://img.shields.io/badge/License-MIT-success.svg"></a>
 	<a target="_blank" href="https://www.python.org/downloads/" title="Python version"><img src="https://img.shields.io/badge/python-%3E=_3.10-success.svg"></a>
 	<a href="https://frappeframework.com/docs"><img src="https://img.shields.io/badge/docs-%F0%9F%93%96-success.svg"/></a>
